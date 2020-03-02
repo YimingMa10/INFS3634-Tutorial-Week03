@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CryptoBag</string>
+    <string name="coinValue">Value (USD)</string>
+    <string name="coinChange1h">Change (1h)</string>
+    <string name="coinChange24h">Change (24h)</string>
+    <string name="coinChange7d">Change (7d)</string>
+    <string name="coinMarketcap">Marketcap</string>
+    <string name="coinVolume">Volume (24h)</string>
+</resources>
